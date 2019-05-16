@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          I was changed!
         </p>
         <a
           className="App-link"
@@ -17,7 +17,6 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-	  // nothing
         </a>
       </header>
     </div>
